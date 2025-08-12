@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'YourName'
-description 'Helicopter Stabilizer System'
+author 'tom2440'
+description ' fonction de stabilisation pour les hélicoptères'
 version '1.0.0'
 
 client_scripts {
@@ -12,4 +12,5 @@ client_scripts {
 
 dependencies {
     'es_extended'
+
 }
